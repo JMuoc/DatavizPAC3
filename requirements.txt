@@ -1,6 +1,8 @@
 time
-altair
-geopandas
-numpy
-pandas
-streamlit
+streamlit==1.36.0
+numpy==1.26.4
+streamlit-folium==0.21.1
+geopandas==1.0.1
+mapclassify==2.7.0
+matplotlib==3.9.1
+watchdog==4.0.1
